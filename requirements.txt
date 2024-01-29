@@ -1,0 +1,4 @@
+qiskit>=0.44
+qiskit-aer>=0.13
+qiskit-ibm-runtime>=0.18
+networkx>=3.2
